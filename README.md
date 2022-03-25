@@ -12,16 +12,16 @@ Student project for finals
  *RESOURCES*
 
    ##### FRONTEND
-      - HTML
-      - CSS
-      - JAVASCRIPT
-      - AJAX
+   - HTML
+   - CSS
+   - JAVASCRIPT
+   - AJAX
 
    ##### BACKEND
-      - PHP
+   - PHP
 
    ##### DATABASE
-      - MySQL
+   - MySQL
  
   
   
