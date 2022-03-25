@@ -2,14 +2,14 @@ Student project for finals
 
 
 
-* What is the system does?
+* What is the system do?
   - LOGIN & REGISTER SYSTEM
   - CRUD (FOR USERS)
   - FORM VALIDATIONS
   - PREVIEW IMAGE ( BEFORE UPLOADING ) USING AJAX
 
 
- *RESOURCES
+ *RESOURCES*
 
   ##### FRONTEND
     - HTML
