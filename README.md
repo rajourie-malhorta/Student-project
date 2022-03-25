@@ -9,19 +9,19 @@ Student project for finals
   - PREVIEW IMAGE ( BEFORE UPLOADING ) USING AJAX
 
 
-* RESOURCES
+  * RESOURCES
 
-##### FRONTEND
-  - HTML
-  - CSS
-  - JAVASCRIPT
-  - AJAX
+  ##### FRONTEND
+    - HTML
+    - CSS
+    - JAVASCRIPT
+    - AJAX
 
-##### BACKEND
-  - PHP
+  ##### BACKEND
+    - PHP
 
-##### DATABASE
-  - MySQL
+  ##### DATABASE
+    - MySQL
  
   
   
