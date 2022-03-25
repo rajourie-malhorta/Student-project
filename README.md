@@ -9,7 +9,7 @@ Student project for finals
   - PREVIEW IMAGE ( BEFORE UPLOADING ) USING AJAX
 
 
-  * RESOURCES
+ *RESOURCES
 
   ##### FRONTEND
     - HTML
