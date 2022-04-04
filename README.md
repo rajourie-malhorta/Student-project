@@ -1,6 +1,5 @@
 Student project for finals
 
-
 * What is the system do?
   - LOGIN & REGISTER SYSTEM
   - CRUD (FOR USERS)
