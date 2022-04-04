@@ -14,8 +14,6 @@ if(isset($_POST['registerbtn']) && isset($_FILES["file"]["name"])) {
   $error= "";
   $message = "";
 
-
-
   if (empty($firstname) || empty($lastname) || empty($email)) {
     header("Location: dashboard.php?error=emptyfields&uid=");
 
@@ -50,8 +48,6 @@ if(isset($_POST['registerbtn']) && isset($_FILES["file"]["name"])) {
   }*/
   
   else {
-
-   
 
     // First we create the statement that searches our database table to check for any identical usernames.
     $sql = "SELECT * FROM users WHERE id=? OR email=?; ";
@@ -124,7 +120,6 @@ if(isset($_POST['registerbtn']) && isset($_FILES["file"]["name"])) {
 }
 else {
   // If the user tries to access this page an inproper way, we send them back to the signup page.
-  
   
 }
 
