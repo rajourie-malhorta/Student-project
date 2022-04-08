@@ -2,7 +2,6 @@
 session_start();
 include"controllers/login.php";
 
-
 global $alert;
 if(isset($_SESSION['id'])){
   header("Location: dashboard.php");
@@ -11,7 +10,6 @@ if(isset($_SESSION['id'])){
               Oops!, you cant do that here, you need an account to access that site.
                 </p>"';
  }
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
